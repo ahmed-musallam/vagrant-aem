@@ -1,7 +1,7 @@
 
 .project
 .vagrant
-Vagrantfile
 puppet/Puppetfile.lock
 puppet/.tmp
 puppet/.librarian
+/resources
