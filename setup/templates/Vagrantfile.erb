@@ -9,7 +9,7 @@ Vagrant.configure('2') do |config|
   config.vm.provider 'virtualbox' do |v|
     v.name = '<%= client %>-aem'
     v.cpus = 2
-    v.memory = 8192
+    v.memory = 5120
   end
 
   config.vm.provision :shell, path: 'setup/update-vm.sh'
