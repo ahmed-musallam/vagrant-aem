@@ -1,3 +1,13 @@
+# **Getting Started**
+1. Clone this repo
+2. create a folder "resources" as a sibling of "Vagrantfile"
+3. in that folder, copy the AEM jar and make sure it's named "aem-quickstart-6.1.jar"
+4. open commandline and cd to this repo
+5. run 'vagrant up'
+6. installation should now start.. it'll take a few minutes
+
+# **VAGRANT ORIGINAL DOCUMENTATION**
+
 # vagrant-aem - Vagrant boxes for AEM
 
 #### Table of Contents
